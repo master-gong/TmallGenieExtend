@@ -2,7 +2,6 @@
 天猫精灵 方糖改装，扩展AUX、FM、Bluetooth音频输出
 
 
-博客: https://mastergong.cn/
 改装教程：https://post.smzdm.com/p/a83dm967/
 
 
