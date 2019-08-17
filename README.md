@@ -27,10 +27,13 @@ Version: 9.3.0
 
 
 
-
 BSP工程生成软件：
 
 STM32CubeMX   Version 5.1.0
+
+如果只下载固件，不进行二次开发，就不需要安装上述软件，
+下载方法参考：https://mastergong.cn/archives/136.html
+需要使用jlink。
 
 
 
